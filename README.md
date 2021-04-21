@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pavankalyan0105
 - 👀 I’m interested in Problem Solving , development ,  open source
-- 🌱 I’m currently learning a student in Vignan's insitute of information technology
+- 🌱 I’m currently pursuing bachelors in Vignan's insitute of information technology
 - 💞️ I’m looking to collaborate with people who loves to code
 - 📫 How to reach me : pavankalyan0105@gmail.com
 
