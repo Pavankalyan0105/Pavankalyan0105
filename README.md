@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pavankalyan0105&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
----
+<br/>
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavankalyan0105&show_icons=true&theme=radical&layout=compact)
