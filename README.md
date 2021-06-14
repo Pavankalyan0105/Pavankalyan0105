@@ -1,6 +1,6 @@
 <div>
 
-# 👋 Hi there, I am <a href="https://bhavya.dev">Pavan Kalyan!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+# 👋 Hi there, I am <a href="https://bhavya.dev">Pavan Kalyan!</a> <img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
   
   
 </div>
