@@ -17,6 +17,11 @@ Pavankalyan0105/Pavankalyan0105 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
+<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pavankalyan0105&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+</div>
+<br/>
 
+<div>
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavankalyan0105&show_icons=true&theme=radical&layout=compact)
+</div>
