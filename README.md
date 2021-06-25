@@ -1,5 +1,4 @@
 <div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pavankalyan0105&label=Profile%20views&color=0e75b6&style=flat" alt="Pavankalyan0105" /> </p>
 
 # 👋 Hi there, I am <a href="http://pavankalyan.me/Portfolio/">Pavan Kalyan!</a> <img align='right' src="cat.gif" height="" width="300" alt="coding cat">
   
