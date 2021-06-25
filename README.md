@@ -22,5 +22,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavankalyan0105&show_icons=true&theme=radical&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavankalyan0105&" alt="Pavankalyan0105" /></p>
 
